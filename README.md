@@ -12,3 +12,4 @@
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4ck-ftw&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=z4ck-ftw&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z4ck-ftw&layout=compact&theme=tokyonight)
+<img src="https://pin.it/6wG5hr9Bk==" >
