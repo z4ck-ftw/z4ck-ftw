@@ -4,7 +4,8 @@
 
 👨‍💻 Crafting fast, modern, aesthetic digital experiences.  
 ⚡ Specializing in **Discord Bots**, **Web Apps**, and **Automation Systems**.  
-🎨 Focused on **Elegance**, **Performance**, and **Clean Architecture**.
+🎨 Focused on **Elegance**, **Performance**, and **Clean Architecture**,
+👨‍💻 Currently working in [MenAtArms](https://discord.gg/xb7DxhYYTE).
 
 ---
 
