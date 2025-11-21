@@ -5,7 +5,8 @@
 👨‍💻 Crafting fast, modern, aesthetic digital experiences.  
 ⚡ Specializing in **Discord Bots**, **Web Apps**, and **Automation Systems**.  
 🎨 Focused on **Elegance**, **Performance**, and **Clean Architecture**, 
-👨‍💻 Currently **Working** in [MenAtArms](https://discord.gg/xb7DxhYYTE) and [Moon](https://discord.com/oauth2/authorize?client_id=1435245072391344241).
+👨‍💻 Currently **Developing** in, [MenAtArms](https://discord.gg/xb7DxhYYTE)
+👨‍💻 Currently **Working** in, [Moon](https://discord.com/oauth2/authorize?client_id=1435245072391344241).
 
 ---
 
