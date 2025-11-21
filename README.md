@@ -2,11 +2,11 @@
 
 **Discord.js Developer • Full-Stack Engineer**
 
-👨‍💻 Crafting **Fast**, **Modern**, **Aesthetic Digital Experiences**.  
-⚡ Specializing in **Discord Bots**, **Web Apps**, and **Automation Systems**.  
-🎨 Focused on **Elegance**, **Performance**, and **Clean Architecture**. 
-👨‍💻 Currently **Developing** in, [MenAtArms](https://discord.gg/xb7DxhYYTE).
-👨‍💻 Currently **Working** in, [Moon](https://discord.com/oauth2/authorize?client_id=1435245072391344241).
+👨‍💻 Crafting **Fast**, **Modern**, **Aesthetic Digital Experiences**. \n 
+⚡ Specializing in **Discord Bots**, **Web Apps**, and **Automation Systems**.\n  
+🎨 Focused on **Elegance**, **Performance**, and **Clean Architecture**.\n 
+💻 Currently **Developing** in, [MenAtArms](https://discord.gg/xb7DxhYYTE).\n
+💻 Currently **Working** in, [Moon](https://discord.com/oauth2/authorize?client_id=1435245072391344241).
 
 ---
 
