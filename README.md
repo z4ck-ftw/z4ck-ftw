@@ -9,6 +9,25 @@
 
 ---
 
+<!-- Profile Views -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azhaan4130&label=PROFILE+VIEWS&color=red&style=for-the-badge" alt="Profile Views"/>
+</div>
+
+<br>
+
+---
+
+Here are the tools and technologies I use to craft my projects:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,html,css,js,react,mongodb,mysql,git&theme=dark&perline=7" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 ![Zack's GitHub stats](https://github-readme-stats.vercel.app/api?username=z4ck-ftw&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z4ck-ftw&layout=compact&theme=tokyonight)
